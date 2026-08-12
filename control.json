@@ -1,0 +1,12 @@
+{
+  "activo": true,
+  "apps": {
+    "brigadistas": false,
+    "directorio": false,
+    "mando": false
+  },
+  "promotoresBloqueados": [],
+  "versionMinima": 5,
+  "mensaje": "Sistema en mantenimiento. Contacta a coordinación.",
+  "actualizado": "2026-08-12T05:18:58.487Z"
+}
