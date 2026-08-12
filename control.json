@@ -3,7 +3,7 @@
   "apps": {
     "brigadistas": true,
     "directorio": true,
-    "mando": true
+    "mando": false
   },
   "promotoresBloqueados": [],
   "versionMinima": 1,
