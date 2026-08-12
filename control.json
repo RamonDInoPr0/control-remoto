@@ -1,7 +1,7 @@
 {
   "activo": true,
   "apps": {
-    "brigadistas": true,
+    "brigadistas": false,
     "directorio": true,
     "mando": true
   },
