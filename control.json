@@ -2,8 +2,8 @@
   "activo": true,
   "apps": {
     "brigadistas": true,
-    "directorio": false,
-    "mando": false
+    "directorio": true,
+    "mando": true
   },
   "promotoresBloqueados": [],
   "versionMinima": 5,
