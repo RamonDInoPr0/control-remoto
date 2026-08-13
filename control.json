@@ -3,9 +3,9 @@
   "apps": {
     "brigadistas": true,
     "directorio": true,
-    "mando": false
+    "mando": true
   },
   "promotoresBloqueados": [],
   "versionMinima": 1,
-  "mensaje": "Falta de pago"
+  "mensaje": "Programa en mantenimiento"
 }
