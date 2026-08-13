@@ -3,9 +3,9 @@
   "apps": {
     "brigadistas": true,
     "directorio": true,
-    "mando": true
+    "mando": false
   },
   "promotoresBloqueados": [],
   "versionMinima": 1,
-  "mensaje": "Sistema en mantenimiento. Contacta a coordinación."
+  "mensaje": "Falta de pago"
 }
